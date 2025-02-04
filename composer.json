@@ -19,7 +19,7 @@
         "php": ">=8.1",
         "guzzlehttp/guzzle": "^7.5.1",
         "laravel/framework": "^10.9.0|^11.0",
-        "gehrisandro/tailwind-merge-php": "^v1.1.0"
+        "gehrisandro/tailwind-merge-php": "dev-main"
     },
     "require-dev": {
         "laravel/pint": "^1.13.8",
